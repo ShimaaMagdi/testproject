@@ -21,6 +21,9 @@ public class Project {
         System.out.println(x);
         x++;
         System.out.println(x);
+        // TODO code application logic her
+        System.out.println("hello world");
+        System.out.println("hi world");
     }
     
 }
