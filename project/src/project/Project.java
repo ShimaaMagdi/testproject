@@ -16,8 +16,11 @@ public class Project {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic her
-        System.out.println("hello world");
+        int x = 4;
+        x++;
+        System.out.println(x);
+        x++;
+        System.out.println(x);
     }
     
 }
